@@ -4,6 +4,7 @@
 * [rllib, UC Berkeley’s RISE Lab, Ray Project](https://github.com/ray-project/ray/tree/master/python/ray/rllib/)
 * [baselines, OpenAI](https://github.com/openai/baselines)
 * [gym, OpenAI](https://gym.openai.com/docs/)
+* [Universe, OpenAI](https://blog.openai.com/universe/)
 * [roboschool, OpenAI](https://github.com/openai/roboschool)
 * [Reaver, StarCraft II](https://github.com/inoryy/reaver-pysc2)
 * [TensorForce](https://github.com/reinforceio/tensorforce)
