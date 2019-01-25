@@ -41,7 +41,7 @@
 * [DRL papers 2015-2016](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 * [Spinning up, OpenAI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
-#RL Applications
+# RL Applications
 * [Play Atari games, DeepMind](https://arxiv.org/pdf/1312.5602v1.pdf)
 * [AlphaGo & AlphaGoZero, playing Go, DeepMind](https://deepmind.com/research/alphago/)
 * [AlphaStar, playing StarCraft2, DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
