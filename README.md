@@ -2,6 +2,7 @@
 * [Spinning Up, OpenAI](https://spinningup.openai.com/)
 * [Rllab, Berkeley RL Lab](https://github.com/rll/rllab)
 * [Rllib, UC Berkeley’s RISE Lab, Ray Project](https://github.com/ray-project/ray/tree/master/python/ray/rllib/)
+* [Rlkit, Vitchyr Pong's Implementations](https://github.com/vitchyr/rlkit)
 * [Baselines, OpenAI](https://github.com/openai/baselines)
 * [Gym, OpenAI](https://gym.openai.com/docs/)
 * [Universe, OpenAI](https://blog.openai.com/universe/)
@@ -54,3 +55,18 @@
 * [Modular legged robot skill learning, Disney Research](https://www.disneyresearch.com/publication/automated-deep-reinforcement-learning-environment-for-hardware-of-a-modular-legged-robot/)
 * [RL in business (Chinese version), Alibaba](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1517812754285/reinforcement_learning.pdf)
 * [LOXM, executing trades, J.P.Morgan](https://www.jpmorgan.com/global/LOXM)
+
+# RL Technique
+
+| Technique                 | Benefit                                   | First Mentioned Key Algorithm      |
+| ------------------------- | ----------------------------------------- | ---------------------------------- |
+| Target network            | Stabilize the training process            | DQN, 2015                          |
+| Memory buffer             | Breaking data relevance                   | DQN, 2015                          |
+| KL-constrained update     | Optimize update step size                 | TRPO, 2015                         |
+| Advantage function        | Stabilize learning                        | A3C, 2015                          |
+| Importance sampling       | Data efficient                            | Prioritized Experience Replay,2016 |
+| Entropy-regularized       | Better exploration                        | Soft Q-Learning, 2017              |
+| Boltzmann policy          | Richer mathematical meaning               | Soft Q-Learning, 2017              |
+| Target policy smoothing   | Avert Q-function incorrect sharp peak     | TD3, 2018                          |
+| Clipped double-Q learning | Fend off overestimation in the Q-function | TD3, 2018                          |
+| Reparameterize the policy | Lower variance estimate                   | SAC, 2018                          |
