@@ -65,8 +65,8 @@
 | KL-constrained update     | Optimize update step size                 | TRPO, 2015                         |
 | Advantage function        | Stabilize learning                        | A3C, 2015                          |
 | Importance sampling       | Data efficient                            | Prioritized Experience Replay,2016 |
-| Entropy-regularized       | Better exploration                        | Soft Q-Learning, 2017              |
-| Boltzmann policy          | Richer mathematical meaning               | Soft Q-Learning, 2017              |
+| Entropy-regularized       | Better exploration                        | Soft Q-Learning, 2018              |
+| Boltzmann policy          | Richer mathematical meaning               | Soft Q-Learning, 2018              |
 | Target policy smoothing   | Avert Q-function incorrect sharp peak     | TD3, 2018                          |
 | Clipped double-Q learning | Fend off overestimation in the Q-function | TD3, 2018                          |
 | Reparameterize the policy | Lower variance estimate                   | SAC, 2018                          |
