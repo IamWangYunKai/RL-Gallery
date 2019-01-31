@@ -29,15 +29,16 @@
 * [Andrej Karpathy's blog](http://karpathy.github.io/2016/05/31/rl/)
 
 # RL Implementation
-* [RL-Adventure, Dulat Yerzat's Implementation](https://github.com/higgsfield/RL-Adventure)
-* [RL-Adventure2, Dulat Yerzat's Implementation](https://github.com/higgsfield/RL-Adventure-2)
+* [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
+* [RL-Adventure2, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure-2)
 * [John Schulman's RL repository](https://github.com/joschu/modular_rl)
-* [TD3 Implementation](https://github.com/sfujim/TD3)
-* [SAC Implementation](https://github.com/haarnoja/sac)
-* [Denny Britz's Implementations](https://github.com/dennybritz/reinforcement-learning)
+* [TD3 implementation](https://github.com/sfujim/TD3)
+* [SAC implementation](https://github.com/haarnoja/sac)
+* [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning)
+* [steveKapturowski's implementations](https://github.com/steveKapturowski/tensorflow-rl)
 * [ShangtongZhang's implementations](https://github.com/ShangtongZhang/DeepRL)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
-* [Morvan Zhou's Implementations](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+* [Morvan Zhou's implementations](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
