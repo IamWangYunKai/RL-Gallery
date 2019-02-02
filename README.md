@@ -27,6 +27,7 @@
 * [Thomas Simonini's DRL course](https://www.simoninithomas.com/)
 * [Lilian Weng's blog](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 * [Andrej Karpathy's blog](http://karpathy.github.io/2016/05/31/rl/)
+* [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
 
 # RL Implementation
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
