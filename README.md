@@ -41,6 +41,7 @@
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 * [Morvan Zhou's implementations](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 * [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
+* [Chanwoong joo's implementations](https://github.com/jcwleo/mario_rl)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
