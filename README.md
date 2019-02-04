@@ -14,7 +14,7 @@
 * [Coach, Intel](https://github.com/NervanaSystems/coach)
 * [PARL, Baidu](https://github.com/PaddlePaddle/PARL)
 
-# RL Tutorials & Blogs
+# RL Tutorials & Blogs & Talks
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 * [CS 294-112, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [David Silver's courses](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -28,6 +28,8 @@
 * [Lilian Weng's blog](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 * [Andrej Karpathy's blog](http://karpathy.github.io/2016/05/31/rl/)
 * [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
+* [Spinning Up in Deep RL Workshop, OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY)
+* [Reproducible, Reusable, and Robust RL, Joelle Pineau](https://www.youtube.com/watch?v=Kee4ch3miVA)
 
 # RL Implementation
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
