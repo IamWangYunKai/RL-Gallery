@@ -35,6 +35,7 @@
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
 * [RL-Adventure2, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure-2)
 * [John Schulman's RL repository](https://github.com/joschu/modular_rl)
+* [TianhongDai's implementations](https://github.com/TianhongDai/reinforcement-learning-algorithms)
 * [TD3 implementation](https://github.com/sfujim/TD3)
 * [SAC implementation](https://github.com/haarnoja/sac)
 * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning)
