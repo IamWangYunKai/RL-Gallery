@@ -47,6 +47,7 @@
 * [TD3 implementation](https://github.com/sfujim/TD3)
 * [SAC implementation](https://github.com/haarnoja/sac)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
+* [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
