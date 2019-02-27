@@ -13,6 +13,8 @@
 * [Dopamine, Google](https://github.com/google/dopamine)
 * [Coach, Intel](https://github.com/NervanaSystems/coach)
 * [PARL, Baidu](https://github.com/PaddlePaddle/PARL)
+* [torchrl, salmanazarr's implementations](https://github.com/salmanazarr/torchrl)
+* [rlpack, liber145's implementations](https://github.com/liber145/rlpack)
 
 # RL Tutorials & Blogs & Talks
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -36,15 +38,15 @@
 * [RL-Adventure2, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure-2)
 * [John Schulman's RL repository](https://github.com/joschu/modular_rl)
 * [TianhongDai's implementations](https://github.com/TianhongDai/reinforcement-learning-algorithms)
-* [TD3 implementation](https://github.com/sfujim/TD3)
-* [SAC implementation](https://github.com/haarnoja/sac)
 * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning)
 * [steveKapturowski's implementations](https://github.com/steveKapturowski/tensorflow-rl)
 * [ShangtongZhang's implementations](https://github.com/ShangtongZhang/DeepRL)
-* [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 * [Morvan Zhou's implementations](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
-* [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
 * [Chanwoong joo's implementations](https://github.com/jcwleo/mario_rl)
+* [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
+* [TD3 implementation](https://github.com/sfujim/TD3)
+* [SAC implementation](https://github.com/haarnoja/sac)
+* [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
@@ -80,3 +82,4 @@
 | Reparameterize the policy | Lower variance estimate                   | [SAC, 2018](https://arxiv.org/pdf/1801.01290.pdf)            |
 
 **PS: "Mentioned Key Algorithm" may not be the first algorithm that uses this technique, but makes a detailed explanation**
+
