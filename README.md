@@ -3,6 +3,7 @@
 * [Rllab, Berkeley RL Lab](https://github.com/rll/rllab)
 * [Rllib, UC Berkeley’s RISE Lab, Ray Project](https://github.com/ray-project/ray/tree/master/python/ray/rllib/)
 * [Rlkit, Vitchyr Pong's Implementations](https://github.com/vitchyr/rlkit)
+* [Stable-baselines](https://github.com/hill-a/stable-baselines)
 * [Baselines, OpenAI](https://github.com/openai/baselines)
 * [Gym, OpenAI](https://gym.openai.com/docs/)
 * [Universe, OpenAI](https://blog.openai.com/universe/)
@@ -48,6 +49,7 @@
 * [SAC implementation](https://github.com/haarnoja/sac)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 * [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
+* [rl-baselines-zoo, pre-trained RL agents using stable-baselines](https://github.com/araffin/rl-baselines-zoo)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
