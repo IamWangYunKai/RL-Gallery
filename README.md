@@ -21,6 +21,7 @@
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 * [CS 294-112, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [David Silver's courses](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Deep RL Bootcamp, UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
 * [UCL Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560v2.pdf)
