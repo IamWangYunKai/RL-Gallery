@@ -5,10 +5,6 @@
 * [Rlkit, Vitchyr Pong's Implementations](https://github.com/vitchyr/rlkit)
 * [Stable-baselines](https://github.com/hill-a/stable-baselines)
 * [Baselines, OpenAI](https://github.com/openai/baselines)
-* [Gym, OpenAI](https://gym.openai.com/docs/)
-* [Universe, OpenAI](https://blog.openai.com/universe/)
-* [Roboschool, OpenAI](https://github.com/openai/roboschool)
-* [Reaver, StarCraft II](https://github.com/inoryy/reaver-pysc2)
 * [TensorForce](https://github.com/reinforceio/tensorforce)
 * [Keras RL](https://github.com/keras-rl/keras-rl)
 * [Dopamine, Google](https://github.com/google/dopamine)
@@ -34,6 +30,16 @@
 * [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
 * [Spinning Up in Deep RL Workshop, OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 * [Reproducible, Reusable, and Robust RL, Joelle Pineau](https://www.youtube.com/watch?v=Kee4ch3miVA)
+
+# RL Platform
+* [Gym, OpenAI](https://gym.openai.com/docs/)
+* [Universe, OpenAI](https://blog.openai.com/universe/)
+* [Roboschool, OpenAI](https://github.com/openai/roboschool)
+* [PlayGround: AI Research into Multi-Agent Learning](https://github.com/MultiAgentLearning/playground)
+* [Neural MMO: A Massively Multiagent Game Environment](https://github.com/openai/neural-mmo)
+* [ELF, a platform for game research, Facebook](https://github.com/pytorch/ELF)
+* [Reaver, StarCraft II](https://github.com/inoryy/reaver-pysc2)
+* [Pybullet: Real-Time Physics Simulation](https://pybullet.org)
 
 # RL Implementation
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
@@ -65,10 +71,9 @@
 * [Skill learning in 3D simulator, Xue Bin Peng](https://arxiv.org/pdf/1804.02717.pdf)
 * [Agile locomotion for quadruped robots, Jie Tan](https://arxiv.org/pdf/1804.10332.pdf)
 * [ANYmal robot skill learning, Synced](https://syncedreview.com/2019/01/23/you-cant-keep-an-rl-powered-anymal-down/)
-* [Modular legged robot skill learning, Disney Research](https://www.disneyresearch.com/publication/automated-deep-reinforcement-learning-environment-for-hardware-of-a-modular-legged-robot/)
+* [Modular legged robot skill learning, Disney Research](https://la.disneyresearch.com/publication/automated-deep-reinforcement-learning-environment-for-hardware-of-a-modular-legged-robot/)
 * [RL in business (Chinese version), Alibaba](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1517812754285/reinforcement_learning.pdf)
 * [LOXM, executing trades, J.P.Morgan](https://www.jpmorgan.com/global/LOXM)
-* [ELF, a platform for game research, Facebook](https://github.com/pytorch/ELF)
 
 # RL Technique
 
