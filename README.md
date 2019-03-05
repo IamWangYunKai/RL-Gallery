@@ -30,6 +30,9 @@
 * [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
 * [Spinning Up in Deep RL Workshop, OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 * [Reproducible, Reusable, and Robust RL, Joelle Pineau](https://www.youtube.com/watch?v=Kee4ch3miVA)
+* [Udacity, RL by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+* [CS 287: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
 
 # RL Platform
 * [Gym, OpenAI](https://gym.openai.com/docs/)
@@ -61,6 +64,7 @@
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
 * [DRL papers 2015-2016](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+* [](https://github.com/muupan/deep-reinforcement-learning-papers)
 * [Spinning up, OpenAI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 # RL Applications
