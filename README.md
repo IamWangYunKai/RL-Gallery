@@ -12,6 +12,8 @@
 * [PARL, Baidu](https://github.com/PaddlePaddle/PARL)
 * [torchrl, salmanazarr's implementations](https://github.com/salmanazarr/torchrl)
 * [rlpack, liber145's implementations](https://github.com/liber145/rlpack)
+* [ChainerRL, based on Chainer](https://github.com/chainer/chainerrl)
+* [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 # RL Tutorials & Blogs & Talks
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
@@ -63,8 +65,8 @@
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
-* [DRL papers 2015-2016](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
-* [](https://github.com/muupan/deep-reinforcement-learning-papers)
+* [DRL papers 2015-2016, Junhyuk Oh](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+* [DRL papers 2015-2016, Yasuhiro Fujita](https://github.com/muupan/deep-reinforcement-learning-papers)
 * [Spinning up, OpenAI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 # RL Applications
