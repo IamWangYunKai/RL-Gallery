@@ -60,6 +60,8 @@
 * [TD3 implementation](https://github.com/sfujim/TD3)
 * [SAC implementation](https://github.com/haarnoja/sac)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
+* [PyTorch-RL, Ye Yuan's implementations](https://github.com/Khrylx/PyTorch-RL)
+* [pytorchrl, Ermo Wei's implementations](https://github.com/nosyndicate/pytorchrl)
 * [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
 * [rl-baselines-zoo, pre-trained RL agents using stable-baselines](https://github.com/araffin/rl-baselines-zoo)
 
