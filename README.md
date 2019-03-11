@@ -66,6 +66,7 @@
 * [Tidy-Reinforcement-learning, sarcturus00's implementations](https://github.com/sarcturus00/Tidy-Reinforcement-learning)
 * [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
 * [rl-baselines-zoo, pre-trained RL agents using stable-baselines](https://github.com/araffin/rl-baselines-zoo)
+* [rl-agents, Edouard Leurent's implementations](https://github.com/eleurent/rl-agents)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
