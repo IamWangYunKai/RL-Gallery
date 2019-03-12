@@ -35,6 +35,7 @@
 * [Udacity, RL by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
 * [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 * [CS 287: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+* [RLKorea (Korean version)](https://reinforcement-learning-kr.github.io/)
 
 # RL Platform
 * [Gym, OpenAI](https://gym.openai.com/docs/)
@@ -67,6 +68,8 @@
 * [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
 * [rl-baselines-zoo, pre-trained RL agents using stable-baselines](https://github.com/araffin/rl-baselines-zoo)
 * [rl-agents, Edouard Leurent's implementations](https://github.com/eleurent/rl-agents)
+* [lets-do-irl, Reinforcement Learning KR's implementations](https://github.com/reinforcement-learning-kr/lets-do-irl)
+* [tensorflow_practice/rl, princewen's implementations](https://github.com/princewen/tensorflow_practice/tree/master/RL)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
