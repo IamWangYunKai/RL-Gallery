@@ -57,10 +57,6 @@
 * [ShangtongZhang's implementations](https://github.com/ShangtongZhang/DeepRL)
 * [Morvan Zhou's implementations](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 * [Chanwoong joo's implementations](https://github.com/jcwleo/mario_rl)
-* [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
-* [TD3 implementation](https://github.com/sfujim/TD3)
-* [SAC implementation](https://github.com/haarnoja/sac)
-* [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 * [PyTorch-RL, Ye Yuan's implementations](https://github.com/Khrylx/PyTorch-RL)
 * [pytorchrl, Ermo Wei's implementations](https://github.com/nosyndicate/pytorchrl)
 * [Entropy-Regularized-RL, lihaoruo's implementations](https://github.com/LihaoR/Entropy-Regularized-RL)
@@ -70,6 +66,11 @@
 * [rl-agents, Edouard Leurent's implementations](https://github.com/eleurent/rl-agents)
 * [lets-do-irl, Reinforcement Learning KR's implementations](https://github.com/reinforcement-learning-kr/lets-do-irl)
 * [tensorflow_practice/rl, princewen's implementations](https://github.com/princewen/tensorflow_practice/tree/master/RL)
+* [self-imitation-learning, Junhyuk Oh's implementations](https://github.com/junhyukoh/self-imitation-learning)
+* [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
+* [TD3 implementation](https://github.com/sfujim/TD3)
+* [SAC implementation](https://github.com/haarnoja/sac)
+* [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
