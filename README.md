@@ -67,6 +67,8 @@
 * [lets-do-irl, Reinforcement Learning KR's implementations](https://github.com/reinforcement-learning-kr/lets-do-irl)
 * [tensorflow_practice/rl, princewen's implementations](https://github.com/princewen/tensorflow_practice/tree/master/RL)
 * [self-imitation-learning, Junhyuk Oh's implementations](https://github.com/junhyukoh/self-imitation-learning)
+* [pytorch-a2c-ppo-acktr-gail, Ilya Kostrikov's implementations](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
+* [pytorch-madrl, Chenglong Chen's implementations](https://github.com/ChenglongChen/pytorch-madrl)
 * [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
 * [TD3 implementation](https://github.com/sfujim/TD3)
 * [SAC implementation](https://github.com/haarnoja/sac)
