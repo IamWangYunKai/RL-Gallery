@@ -74,6 +74,7 @@
 * [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
 * [TD3 implementation](https://github.com/sfujim/TD3)
 * [SAC implementation](https://github.com/haarnoja/sac)
+* [simple-A2C, Rudy Gilman's implementations](https://github.com/rgilman33/simple-A2C)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 
 # RL Papers
