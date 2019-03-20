@@ -65,6 +65,7 @@
 * [Random Network Distillation, jcwleo's implementation](https://github.com/jcwleo/random-network-distillation-pytorch)
 * [rl-baselines-zoo, pre-trained RL agents using stable-baselines](https://github.com/araffin/rl-baselines-zoo)
 * [rl-agents, Edouard Leurent's implementations](https://github.com/eleurent/rl-agents)
+* [pytorch-rl, Navneet M Kumar's implementations](https://github.com/navneet-nmk/pytorch-rl)
 * [lets-do-irl, Reinforcement Learning KR's implementations](https://github.com/reinforcement-learning-kr/lets-do-irl)
 * [tensorflow_practice/rl, princewen's implementations](https://github.com/princewen/tensorflow_practice/tree/master/RL)
 * [self-imitation-learning, Junhyuk Oh's implementations](https://github.com/junhyukoh/self-imitation-learning)
