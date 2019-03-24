@@ -46,6 +46,7 @@
 * [ELF, a platform for game research, Facebook](https://github.com/pytorch/ELF)
 * [Reaver, StarCraft II](https://github.com/inoryy/reaver-pysc2)
 * [Pybullet: Real-Time Physics Simulation](https://pybullet.org)
+* [highway driving environments](https://github.com/eleurent/highway-env)
 
 # RL Implementation
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
@@ -70,6 +71,7 @@
 * [tensorflow_practice/rl, princewen's implementations](https://github.com/princewen/tensorflow_practice/tree/master/RL)
 * [self-imitation-learning, Junhyuk Oh's implementations](https://github.com/junhyukoh/self-imitation-learning)
 * [pytorch-a2c-ppo-acktr-gail, Ilya Kostrikov's implementations](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
+* [Deep_RL_with_pytorch, sungyubkim's implementations](https://github.com/sungyubkim/Deep_RL_with_pytorch)
 * [pytorch-madrl, Chenglong Chen's implementations](https://github.com/ChenglongChen/pytorch-madrl)
 * [Deep-reinforcement-learning-with-pytorch, Johnny He's implementations](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)
 * [Sam Greydanus's A3C implementation](https://github.com/greydanus/baby-a3c)
