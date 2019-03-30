@@ -80,6 +80,7 @@
 * [SAC implementation](https://github.com/haarnoja/sac)
 * [simple-A2C, Rudy Gilman's implementations](https://github.com/rgilman33/simple-A2C)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
+* [FeUdal-montezuma, Woongwon Lee's implementations](https://github.com/dnddnjs/feudal-montezuma)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
