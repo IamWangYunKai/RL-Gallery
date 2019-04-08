@@ -82,6 +82,8 @@
 * [simple-A2C, Rudy Gilman's implementations](https://github.com/rgilman33/simple-A2C)
 * [DeepPILCO, zuoxingdong's implementation](https://github.com/zuoxingdong/DeepPILCO)
 * [FeUdal-montezuma, Woongwon Lee's implementations](https://github.com/dnddnjs/feudal-montezuma)
+* [Tidy-Reinforcement-learning, sarcturus00's implementations](https://github.com/sarcturus00/Tidy-Reinforcement-learning)
+* [learning-to-communicate-pytorch, Minqi's implementations](https://github.com/minqi/learning-to-communicate-pytorch)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
