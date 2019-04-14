@@ -85,6 +85,7 @@
 * [Tidy-Reinforcement-learning, sarcturus00's implementations](https://github.com/sarcturus00/Tidy-Reinforcement-learning)
 * [learning-to-communicate-pytorch, Minqi's implementations](https://github.com/minqi/learning-to-communicate-pytorch)
 * [pytorch-cpp-rl, Isaac Poulton's implementations](https://github.com/Omegastick/pytorch-cpp-rl)
+* [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
