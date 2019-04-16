@@ -89,6 +89,7 @@
 * [Inverse-Reinforcement-Learning, Matthew Alger's implementations](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
 * [ReinforcementLearning-AtariGame, Nasrudin Bin Salim's implementations](https://github.com/Nasdin/ReinforcementLearning-AtariGame)
 * [RND-Pytorch, WizDom13's implementations](https://github.com/wizdom13/RND-Pytorch)
+* [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
