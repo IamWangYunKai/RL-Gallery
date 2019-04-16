@@ -85,6 +85,10 @@
 * [Tidy-Reinforcement-learning, sarcturus00's implementations](https://github.com/sarcturus00/Tidy-Reinforcement-learning)
 * [learning-to-communicate-pytorch, Minqi's implementations](https://github.com/minqi/learning-to-communicate-pytorch)
 * [pytorch-cpp-rl, Isaac Poulton's implementations](https://github.com/Omegastick/pytorch-cpp-rl)
+* [deep-rl, Pedro Morais's implementations](https://github.com/p-morais/deep-rl)
+* [Inverse-Reinforcement-Learning, Matthew Alger's implementations](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
+* [ReinforcementLearning-AtariGame, Nasrudin Bin Salim's implementations](https://github.com/Nasdin/ReinforcementLearning-AtariGame)
+* [RND-Pytorch, WizDom13's implementations](https://github.com/wizdom13/RND-Pytorch)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
