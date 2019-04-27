@@ -24,6 +24,7 @@
 * [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
 * [UCL Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [CS234: Reinforcement Learning Winter 2019, Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
 * [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560v2.pdf)
 * [Morvan Reinforcement Learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 * [PyTorch tutorials of RL](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
