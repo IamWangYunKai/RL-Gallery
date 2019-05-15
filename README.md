@@ -93,6 +93,7 @@
 * [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 * [reinforcement_learning, Yiren Lu's implementations](https://github.com/yrlu/reinforcement_learning)
 * [rl_a3c_pytorch, David Griffis's implementations](https://github.com/dgriff777/rl_a3c_pytorch)
+* [RL-Experiments, Yanhua Huang's implementations](https://github.com/Officium/RL-Experiments)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
