@@ -95,8 +95,8 @@
 * [rl_a3c_pytorch, David Griffis's implementations](https://github.com/dgriff777/rl_a3c_pytorch)
 * [RL-Experiments, Yanhua Huang's implementations](https://github.com/Officium/RL-Experiments)
 * [Hierarchical-Actor-Critc-HAC-, Andrew Levy's implementation](https://github.com/andrew-j-levy/Hierarchical-Actor-Critc-HAC-)
-* [tensorflow_RL, RLOpensource
-](https://github.com/RLOpensource/tensorflow_RL)
+* [tensorflow_RL, RLOpensource](https://github.com/RLOpensource/tensorflow_RL)
+* [noreward-rl, Deepak Pathak's implementations](https://github.com/pathak22/noreward-rl)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
