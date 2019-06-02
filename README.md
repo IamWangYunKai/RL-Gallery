@@ -97,6 +97,7 @@
 * [Hierarchical-Actor-Critc-HAC-, Andrew Levy's implementation](https://github.com/andrew-j-levy/Hierarchical-Actor-Critc-HAC-)
 * [tensorflow_RL, RLOpensource](https://github.com/RLOpensource/tensorflow_RL)
 * [noreward-rl, Deepak Pathak's implementations](https://github.com/pathak22/noreward-rl)
+* [robotics-rl-srl, Antonin RAFFIN's implementations](https://github.com/araffin/robotics-rl-srl)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
