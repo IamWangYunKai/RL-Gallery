@@ -39,6 +39,7 @@
 * [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 * [CS 287: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
 * [RLKorea (Korean version)](https://reinforcement-learning-kr.github.io/)
+* [phd-bibliography](https://github.com/eleurent/phd-bibliography)
 
 # RL Platform
 * [Gym, OpenAI](https://gym.openai.com/docs/)
