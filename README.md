@@ -6,4 +6,3 @@
 * [Papers](Papers.md)
 * [Applications](Applications.md)
 * [Technique](Technique.md)
-
