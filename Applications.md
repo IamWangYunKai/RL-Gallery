@@ -1,0 +1,11 @@
+# RL Applications
+* [Play Atari games, DeepMind](https://arxiv.org/pdf/1312.5602v1.pdf)
+* [AlphaGo & AlphaGoZero, playing Go, DeepMind](https://deepmind.com/research/alphago/)
+* [AlphaStar, playing StarCraft2, DeepMind](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+* [Autonomous helicopter flight, Stanford University](http://heli.stanford.edu/)
+* [Skill learning in 3D simulator, Xue Bin Peng](https://arxiv.org/pdf/1804.02717.pdf)
+* [Agile locomotion for quadruped robots, Jie Tan](https://arxiv.org/pdf/1804.10332.pdf)
+* [ANYmal robot skill learning, Synced](https://syncedreview.com/2019/01/23/you-cant-keep-an-rl-powered-anymal-down/)
+* [Modular legged robot skill learning, Disney Research](https://la.disneyresearch.com/publication/automated-deep-reinforcement-learning-environment-for-hardware-of-a-modular-legged-robot/)
+* [RL in business (Chinese version), Alibaba](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1517812754285/reinforcement_learning.pdf)
+* [LOXM, executing trades, J.P.Morgan](https://www.jpmorgan.com/global/LOXM)
