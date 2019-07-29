@@ -47,3 +47,4 @@
 * [robotics-rl-srl, Antonin RAFFIN's implementations](https://github.com/araffin/robotics-rl-srl)
 * [Super-Mario-Bros-RL, Amine SADEQ's implementations](https://github.com/sadeqa/Super-Mario-Bros-RL)
 * [rltf, Nikolay Nikolov's implementations](https://github.com/nikonikolov/rltf.git)
+* [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
