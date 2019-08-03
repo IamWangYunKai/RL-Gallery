@@ -1,6 +1,6 @@
 # RL-Gallery
 * [Framework](#rl-framework)
-* [Tutorials & Blogs & Talks](#rl-tutorials-blogs-talks)
+* [Tutorials & Blogs & Talks](#rl-tutorials-&-blogs-&-talks)
 * [Platform](#rl-platform)
 * [Implementation](#rl-implementation)
 * [Papers](#rl-papers)
