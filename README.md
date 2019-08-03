@@ -1,6 +1,6 @@
 # RL-Gallery
 * [Framework](#rl-framework)
-* [Tutorials & Blogs & Talks](#rl-tutorials-&-blogs-&-talks)
+* [Tutorials](#rl-tutorials)
 * [Platform](#rl-platform)
 * [Implementation](#rl-implementation)
 * [Papers](#rl-papers)
@@ -27,7 +27,7 @@
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 
-# RL Tutorials & Blogs & Talks
+# RL Tutorials
 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 - [CS 294-112, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
