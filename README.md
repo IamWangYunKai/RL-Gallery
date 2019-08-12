@@ -118,6 +118,7 @@
 * [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 * [rl-starter-files, Lucas Willems's implementation](https://github.com/lcswillems/rl-starter-files)
 * [rl_a3c_pytorch, David Griffis's implementation](https://github.com/dgriff777/rl_a3c_pytorch)
+* [DRL, createamind's implementations](https://github.com/createamind/DRL)
 
 
 # RL Papers
