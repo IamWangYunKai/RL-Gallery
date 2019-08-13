@@ -101,6 +101,7 @@
 * [robotics-rl-srl, Antonin RAFFIN's implementations](https://github.com/araffin/robotics-rl-srl)
 * [Super-Mario-Bros-RL, Amine SADEQ's implementations](https://github.com/sadeqa/Super-Mario-Bros-RL)
 * [rltf, Nikolay Nikolov's implementations](https://github.com/nikonikolov/rltf.git)
+* [reward-learning-rl, Avi Singh's implementation](https://github.com/avisingh599/reward-learning-rl)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
