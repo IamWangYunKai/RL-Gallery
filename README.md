@@ -1,3 +1,13 @@
+# RL-Gallery
+* [Framework](#rl-framework)
+* [Tutorials](#rl-tutorials)
+* [Platform](#rl-platform)
+* [Implementation](#rl-implementation)
+* [Papers](#rl-papers)
+* [Applications](#rl-applications)
+* [Technique](#rl-technique)
+------
+
 # RL Framework
 * [Spinning Up, OpenAI](https://spinningup.openai.com/)
 * [Rllab, Berkeley RL Lab](https://github.com/rll/rllab)
@@ -16,30 +26,33 @@
 * [SLM-Lab, Wah Loon Keng's implementations](https://github.com/kengz/SLM-Lab)
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
-# RL Tutorials & Blogs & Talks
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
-* [CS 294-112, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
-* [David Silver's courses](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* [Deep RL Bootcamp, UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-* [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
-* [UCL Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-* [CS234: Reinforcement Learning Winter 2019, Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-* [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
-* [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560v2.pdf)
-* [Morvan Reinforcement Learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
-* [PyTorch tutorials of RL](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
-* [Arthur Juliani's blog](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
-* [Thomas Simonini's DRL course](https://www.simoninithomas.com/)
-* [Lilian Weng's blog](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
-* [Andrej Karpathy's blog](http://karpathy.github.io/2016/05/31/rl/)
-* [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
-* [Spinning Up in Deep RL Workshop, OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY)
-* [Reproducible, Reusable, and Robust RL, Joelle Pineau](https://www.youtube.com/watch?v=Kee4ch3miVA)
-* [Udacity, RL by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
-* [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
-* [CS 287: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
-* [RLKorea (Korean version)](https://reinforcement-learning-kr.github.io/)
-* [phd-bibliography](https://github.com/eleurent/phd-bibliography)
+
+# RL Tutorials
+
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+- [CS 294-112, UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [David Silver's courses](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Deep RL Bootcamp, UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
+- [UCL Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [CS234: Reinforcement Learning Winter 2019, Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
+- [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560v2.pdf)
+- [Morvan Reinforcement Learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+- [PyTorch tutorials of RL](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+- [Arthur Juliani's blog](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Thomas Simonini's DRL course](https://www.simoninithomas.com/)
+- [Lilian Weng's blog](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+- [Andrej Karpathy's blog](http://karpathy.github.io/2016/05/31/rl/)
+- [Hung-yi Lee's DRL lectures (Chinese version)](http://t.cn/RBtg1O2)
+- [Spinning Up in Deep RL Workshop, OpenAI](https://www.youtube.com/watch?v=fdY7dt3ijgY)
+- [Reproducible, Reusable, and Robust RL, Joelle Pineau](https://www.youtube.com/watch?v=Kee4ch3miVA)
+- [Udacity, RL by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+- [CS 287: Advanced Robotics, Fall 2015](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+- [RLKorea (Korean version)](https://reinforcement-learning-kr.github.io/)
+- [phd-bibliography](https://github.com/eleurent/phd-bibliography)
+
 
 # RL Platform
 * [Gym, OpenAI](https://gym.openai.com/docs/)
@@ -51,6 +64,7 @@
 * [Reaver, StarCraft II](https://github.com/inoryy/reaver-pysc2)
 * [Pybullet: Real-Time Physics Simulation](https://pybullet.org)
 * [highway driving environments](https://github.com/eleurent/highway-env)
+
 
 # RL Implementation
 * [RL-Adventure, Dulat Yerzat's implementation](https://github.com/higgsfield/RL-Adventure)
@@ -102,6 +116,10 @@
 * [Super-Mario-Bros-RL, Amine SADEQ's implementations](https://github.com/sadeqa/Super-Mario-Bros-RL)
 * [rltf, Nikolay Nikolov's implementations](https://github.com/nikonikolov/rltf.git)
 * [reward-learning-rl, Avi Singh's implementation](https://github.com/avisingh599/reward-learning-rl)
+* [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+* [rl-starter-files, Lucas Willems's implementation](https://github.com/lcswillems/rl-starter-files)
+* [rl_a3c_pytorch, David Griffis's implementation](https://github.com/dgriff777/rl_a3c_pytorch)
+* [DRL, createamind's implementations](https://github.com/createamind/DRL)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
@@ -109,6 +127,7 @@
 * [DRL papers 2015-2016, Yasuhiro Fujita](https://github.com/muupan/deep-reinforcement-learning-papers)
 * [MARL-Papers](https://github.com/LantaoYu/MARL-Papers)
 * [Spinning up, OpenAI](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 
 # RL Applications
 * [Play Atari games, DeepMind](https://arxiv.org/pdf/1312.5602v1.pdf)
@@ -121,6 +140,7 @@
 * [Modular legged robot skill learning, Disney Research](https://la.disneyresearch.com/publication/automated-deep-reinforcement-learning-environment-for-hardware-of-a-modular-legged-robot/)
 * [RL in business (Chinese version), Alibaba](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/1517812754285/reinforcement_learning.pdf)
 * [LOXM, executing trades, J.P.Morgan](https://www.jpmorgan.com/global/LOXM)
+
 
 # RL Technique
 
@@ -138,4 +158,3 @@
 | Reparameterize the policy | Lower variance estimate                   | [SAC, 2018](https://arxiv.org/pdf/1801.01290.pdf)            |
 
 **PS: "Mentioned Key Algorithm" may not be the first algorithm that uses this technique, but makes a detailed explanation**
-
