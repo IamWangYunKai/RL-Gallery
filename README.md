@@ -24,6 +24,7 @@
 * [rlpack, liber145's implementations](https://github.com/liber145/rlpack)
 * [ChainerRL, based on Chainer](https://github.com/chainer/chainerrl)
 * [SLM-Lab, Wah Loon Keng's implementations](https://github.com/kengz/SLM-Lab)
+* [autonomous-learning-library, Chris Nota's implementations](https://github.com/cpnota/autonomous-learning-library)
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 
