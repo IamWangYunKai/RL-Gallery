@@ -116,11 +116,11 @@
 * [robotics-rl-srl, Antonin RAFFIN's implementations](https://github.com/araffin/robotics-rl-srl)
 * [Super-Mario-Bros-RL, Amine SADEQ's implementations](https://github.com/sadeqa/Super-Mario-Bros-RL)
 * [rltf, Nikolay Nikolov's implementations](https://github.com/nikonikolov/rltf.git)
+* [reward-learning-rl, Avi Singh's implementation](https://github.com/avisingh599/reward-learning-rl)
 * [Deep-Reinforcement-Learning-Algorithms-with-PyTorch, Petros Christodoulou's implementations](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 * [rl-starter-files, Lucas Willems's implementation](https://github.com/lcswillems/rl-starter-files)
 * [rl_a3c_pytorch, David Griffis's implementation](https://github.com/dgriff777/rl_a3c_pytorch)
 * [DRL, createamind's implementations](https://github.com/createamind/DRL)
-
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
