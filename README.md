@@ -24,6 +24,7 @@
 * [rlpack, liber145's implementations](https://github.com/liber145/rlpack)
 * [ChainerRL, based on Chainer](https://github.com/chainer/chainerrl)
 * [SLM-Lab, Wah Loon Keng's implementations](https://github.com/kengz/SLM-Lab)
+* [adeptRL, heronsystems](https://github.com/heronsystems/adeptRL)
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 
