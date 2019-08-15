@@ -25,6 +25,7 @@
 * [ChainerRL, based on Chainer](https://github.com/chainer/chainerrl)
 * [SLM-Lab, Wah Loon Keng's implementations](https://github.com/kengz/SLM-Lab)
 * [adeptRL, heronsystems](https://github.com/heronsystems/adeptRL)
+* [autonomous-learning-library, Chris Nota's implementations](https://github.com/cpnota/autonomous-learning-library)
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 
