@@ -26,6 +26,7 @@
 * [SLM-Lab, Wah Loon Keng's implementations](https://github.com/kengz/SLM-Lab)
 * [adeptRL, heronsystems](https://github.com/heronsystems/adeptRL)
 * [autonomous-learning-library, Chris Nota's implementations](https://github.com/cpnota/autonomous-learning-library)
+* [rlgraph, RLgraph](https://github.com/rlgraph/rlgraph)
 * [rllite, lite repository for RL](https://github.com/ZJU-RL/rllite)
 
 
