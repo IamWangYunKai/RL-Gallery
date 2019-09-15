@@ -124,6 +124,7 @@
 * [rl-starter-files, Lucas Willems's implementation](https://github.com/lcswillems/rl-starter-files)
 * [rl_a3c_pytorch, David Griffis's implementation](https://github.com/dgriff777/rl_a3c_pytorch)
 * [DRL, createamind's implementations](https://github.com/createamind/DRL)
+* [lagom, Xingdong Zuo's implementations](https://github.com/zuoxingdong/lagom)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
