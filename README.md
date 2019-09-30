@@ -126,6 +126,7 @@
 * [DRL, createamind's implementations](https://github.com/createamind/DRL)
 * [lagom, Xingdong Zuo's implementations](https://github.com/zuoxingdong/lagom)
 * [rltime, Opher Lieber's implementations](https://github.com/opherlieber/rltime)
+* [rl_algorithms, Medipixel](https://github.com/medipixel/rl_algorithms)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
