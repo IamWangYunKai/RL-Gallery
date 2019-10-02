@@ -68,6 +68,7 @@
 * [Pybullet: Real-Time Physics Simulation](https://pybullet.org)
 * [highway driving environments](https://github.com/eleurent/highway-env)
 * [ma-gym](https://github.com/koulanurag/ma-gym)
+* [multiworld, Vitchyr Pong](https://github.com/vitchyr/multiworld)
 
 
 # RL Implementation
