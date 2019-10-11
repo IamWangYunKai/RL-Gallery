@@ -128,6 +128,7 @@
 * [lagom, Xingdong Zuo's implementations](https://github.com/zuoxingdong/lagom)
 * [rltime, Opher Lieber's implementations](https://github.com/opherlieber/rltime)
 * [rl_algorithms, Medipixel](https://github.com/medipixel/rl_algorithms)
+* [rlpyt, astooke's implementations](https://github.com/astooke/rlpyt)
 
 # RL Papers
 * [Model-based-papers](https://github.com/danfeiX/model-based-papers)
